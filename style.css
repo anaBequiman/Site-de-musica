@@ -1,0 +1,54 @@
+#titulo{
+    background-color: purple;
+    color: white;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-top: 0px;
+}
+#fundo{
+    background-image: url("background.jpg");
+    background-size: cover;
+}
+#direita{
+    float: right;
+    margin-right: 50px;
+}
+#esquerda{
+    float: left;
+    margin-left: 50px;
+}
+img{
+    width: 225px;
+    border-radius: 125px;
+}
+h3, h4{
+    background-color: purple;
+    color: white;
+}
+h4{
+    font-size: 36px;
+}
+#titulo{
+    font-size: 29px;
+}
+#subtitulo{
+    font-size: 20px;
+}
+button{
+    color: white;
+    background-color: purple;
+    width: 80px;
+    height: 80px;
+    border-color: white;
+}
+.simbolo{
+    font-size: 45px;
+}
+#musica{
+    background-color: purple;
+    color: white;
+    font-size: 25px;
+}
+canvas{
+    margin-top: 250px;
+}
